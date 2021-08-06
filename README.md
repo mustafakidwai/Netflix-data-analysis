@@ -7,7 +7,7 @@
 The objective is to apply Data - visualization techniques to explore the Netflix dataset and the data deeply to identify and answer some questions like the country with most no. of tv shows or to find out the cast of your favourite movie etc
 
 ## Libraries Used:
-1. Numpy
+1. Seaborn
 2. Pandas
 3. Matplotlib
 
