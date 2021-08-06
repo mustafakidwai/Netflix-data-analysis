@@ -6,6 +6,11 @@
 ## Objective:
 The objective is to apply Data - visualization techniques to explore the Netflix dataset and the data deeply to identify and answer some questions like the country with most no. of tv shows or to find out the cast of your favourite movie etc
 
+## Libraries Used:
+1. Numpy
+2. Pandas
+3. Matplotlib
+
 ## The main goal of this project is to practice creating and interpreting different types of visualizations using real world data.
 
 ## Screenshots:
